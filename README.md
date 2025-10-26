@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an aspiring full stack developer.<br><br>I work with HTML, CSS, JavaScript, and backend tools.<br><br>I also use Flutter for mobile app development.<br><br>I love learning new technologies.<br><br>I enjoy building creative and useful projects.
+I’m an aspiring full stack developer.<br><br>I work with HTML, CSS, JavaScript, and backend tools.<br><br>I also use Flutter for mobile app development.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
 
 
 ## 🌐 Socials:
