@@ -2,13 +2,6 @@
 I’m an aspiring full stack developer.<br><br>I work with HTML, CSS, JavaScript, and backend tools.<br><br>I also use Flutter for mobile app development.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
 
 
-<!-- <div align='center'>
-  <img  src='./subinathapa2004 (1).png' />
-</div> -->
-
-
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subina-thapa-6800a934a/) 
