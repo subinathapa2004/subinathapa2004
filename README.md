@@ -1,7 +1,9 @@
 # 💫 About Me:
+<img align ="right" alt ="coding" width ="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 I’m an aspiring full stack developer.<br><br>I work with HTML, CSS, JavaScript, and backend tools.<br><br>I also use Flutter for mobile app development.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
 
-<img align ="right" alt ="coding" width ="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subina-thapa-6800a934a/) 
