@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align ="right" alt ="coding" width ="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-I’m an aspiring full stack developer.<br><br>I work with HTML, CSS, JavaScript, and backend tools.<br><br>I also use Flutter for mobile app development.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
+I’m an aspiring full stack developer(flutter).<br><br>I work with frontend(flutter) and backend(djangoo) tools.<br><br>I also use Flutter for mobile app development.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
 
 
 
