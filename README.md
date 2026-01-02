@@ -1,6 +1,4 @@
 # 💫 About Me:
-<img align="right" alt="girl coding" width="400"
-src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 
 I’m an aspiring full stack developer(flutter).<br><br>I work with frontend(flutter) and backend(djangoo) tools.<br><br>I also use Flutter for mobile app development.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
