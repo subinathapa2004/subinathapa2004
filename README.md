@@ -1,10 +1,5 @@
 # 💫 About Me:         
 
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000cf6c7207b59053af3fd1b466&ts=491077&p=fs&cid=1&sig=c37958f0bfe0115373dbdbdd03a3b157533276197150403a37639b66e8aa5cdb&v=0
-
-
-
-
 I’m an aspiring full stack developer(flutter).<br><br>I work with Full Stack Flutter Developer | Dart | REST API | Firebase | Django| PostgreSQL and tools.<br><br> How to reach me subinathapa.com.np.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
 
 
