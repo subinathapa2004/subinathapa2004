@@ -1,6 +1,6 @@
 # About Me:         
 
-I’m an aspiring full stack developer(flutter).<br><br>I work with Full Stack Flutter Developer | Dart | REST API | Firebase | Django| PostgreSQL and tools.<br><br> How to reach me subinathapa.com.np.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
+I’m a full stack developer(flutter).<br><br>I work with Full Stack Flutter Developer | Dart | REST API | Firebase | Django| PostgreSQL and tools.<br><br> How to reach me subinathapa.com.np.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
 
 
 
