@@ -2,7 +2,7 @@
 
 I’m a full stack developer(flutter).<br><br>I work with Full Stack Flutter Developer | Dart | REST API | Firebase | Django| PostgreSQL and tools.<br><br> How to reach me subinathapa.com.np.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjM3aXExZTEyc2VsYncwNXp5c2g5MW96Y3hlZmVmZDRwdWNlN3F3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
+https://imgur.com/a/zSYcjim
 
 <div align = left>
 
