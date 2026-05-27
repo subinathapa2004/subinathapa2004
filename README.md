@@ -3,11 +3,6 @@
 I’m a full stack developer(flutter).<br><br>I work with Full Stack Flutter Developer | Dart | REST API | Firebase | Django| PostgreSQL and tools.<br><br> How to reach me subinathapa.com.np.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
 
 
-https://www.google.com/imgres?q=who%20is%20subina%20thapa&imgurl=https%3A%2F%2Fmedia2.dev.to%2Fdynamic%2Fimage%2Fwidth%3D320%2Cheight%3D320%2Cfit%3Dcover%2Cgravity%3Dauto%2Cformat%3Dauto%2Fhttps%253A%252F%252Fdev-to-uploads.s3.amazonaws.com%252Fuploads%252Fuser%252Fprofile_image%252F3844710%252Fb369f51f-ddbe-4ee0-8cf0-6285f1c7da58.jpg&imgrefurl=https%3A%2F%2Fdev.to%2Fthapasubina22&docid=45BKDEDTpdFNnM&tbnid=KPk1PZ9Uk-YQdM&vet=12ahUKEwjVgPG2vtiUAxW01TgGHUnXJCgQnPAOegQIGhAB..i&w=320&h=320&hcb=2&ved=2ahUKEwjVgPG2vtiUAxW01TgGHUnXJCgQnPAOegQIGhAB
-
-
-
-
 
 <div align = left>
 
