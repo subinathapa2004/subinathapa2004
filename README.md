@@ -1,5 +1,5 @@
 # About Me: 
-<img src="https://github.com/subinathapa2004/subinathapa2004/blob/main/fffffffffffffff.jpg?raw=true" width="500"/>
+<img src="https://github.com/subinathapa2004/subinathapa2004/blob/main/fffffffffffffff.jpg?raw=true" width="300" height="200"/>
 
 
 
