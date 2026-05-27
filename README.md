@@ -1,8 +1,8 @@
-# About Me:         
-
-I’m a full stack developer(flutter).<br><br>I work with Full Stack Flutter Developer | Dart | REST API | Firebase | Django| PostgreSQL and tools.<br><br> How to reach me subinathapa.com.np.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
+# About Me: 
 
 <img src="https://github.com/subinathapa2004/subinathapa2004/blob/main/fffffffffffffff.jpg?raw=true" width="200"/>
+
+I’m a full stack developer(flutter).<br><br>I work with Full Stack Flutter Developer | Dart | REST API | Firebase | Django| PostgreSQL and tools.<br><br> How to reach me subinathapa.com.np.<br><br>I love learning new technologies and coding.<br><br>I enjoy building creative and useful projects.
 
 
 <div align = left>
